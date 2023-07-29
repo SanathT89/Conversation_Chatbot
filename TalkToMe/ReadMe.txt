@@ -1,1 +1,1 @@
-The appilication to e executed is TalkToMe.py.
+The appilication to be executed is TalkToMe.py.

@@ -10,7 +10,7 @@ The TalkToMe Folder contains the executable application itself.
 # The Necessary Installation of Dependencies:
 * Python 3.11.4
 * Jupyter Notebook (If modification of machine learning models or data is to be done)
-* nltk 3.8.1
+* Natural Language Toolkit (nltk) 3.8.1
 * Other library requirements are specified in the notebook and are to be installed appropriately and are not required if only the application is to be run.
 
 
@@ -19,5 +19,11 @@ The TalkToMe Folder contains the executable application itself.
 * Download TalkToMe folder from the repository.
 * Run the terminal in the folder containing TalktoMe.py
 * Run the command:
- python TalkToMe.py 
+ python TalkToMe.py
+
+# Issues to be fixed:
+- [ ] Data insufficiency leads to abrupt responses in certain cases when the user runs a query.
+- [ ] Text sentiment calculation can be made better than the used approach(Using VADER SentimentIntensityAnalyser).
+- [ ] Terminal execution time can be made better by either connecting this to website frontend or if used as a module for a desktop application.
+- [ ] Raw Data annotation can be changed for better processing. 
 

@@ -24,6 +24,7 @@ The TalkToMe Folder contains the executable application itself.
 # Issues to be fixed:
 - [ ] Data insufficiency leads to abrupt responses in certain cases when the user runs a query.
 - [ ] Text sentiment calculation can be made better than the used approach(Using VADER SentimentIntensityAnalyser).
-- [ ] Terminal execution time can be made better by either connecting this to website frontend or if used as a module for a desktop application.
-- [ ] Raw Data annotation can be changed for better processing. 
+- [ ] Terminal execution time can be made better by either connecting this to the website frontend or if used as a module for a desktop application.
+- [ ] Advanced Word Embeddings: Utilizing more sophisticated word embedding models like word2vec or BERT may lead to better contextual understanding and improved response generation.
+- [ ] Out-of-Vocabulary Handling: Addressing out-of-vocabulary words by incorporating techniques like word stemming or lemmatization can enhance the chatbot's understanding of user queries.
 

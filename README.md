@@ -19,7 +19,7 @@ The TalkToMe Folder contains the executable application itself.
 * Download TalkToMe folder from the repository.
 * Run the terminal in the folder containing TalktoMe.py
 * Run the command:
- python TalkToMe.py
+ ```python TalkToMe.py```
 
 # Issues to be fixed and future scope:
 - [ ] Data insufficiency leads to abrupt responses in certain cases when the user runs a query.

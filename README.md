@@ -21,7 +21,7 @@ The TalkToMe Folder contains the executable application itself.
 * Run the command:
  python TalkToMe.py
 
-# Issues to be fixed:
+# Issues to be fixed and future scope:
 - [ ] Data insufficiency leads to abrupt responses in certain cases when the user runs a query.
 - [ ] Text sentiment calculation can be made better than the used approach(Using VADER SentimentIntensityAnalyser).
 - [ ] Terminal execution time can be made better by either connecting this to the website frontend or if used as a module for a desktop application.
